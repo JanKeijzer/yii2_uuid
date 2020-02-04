@@ -1,0 +1,19 @@
+{
+    "name": "keijzer/yii2_uuid",
+    "description": "UUID services for Yii2 based on Ramsey/Uuid",
+    "type": "library",
+    "require": {
+        "ramsey/uuid": "^4.0@dev",
+        "yiisoft/yii2": "^2.0@dev"
+    },
+    "authors": [
+        {
+            "name": "jan",
+            "email": "jan_keijzer@hotmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"Keijzer\\Yii2\\Uuid\\": "src/"}
+    },
+    "minimum-stability": "dev"
+}
