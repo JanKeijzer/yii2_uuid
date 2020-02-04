@@ -3,7 +3,7 @@
     "description": "UUID services for Yii2 based on Ramsey/Uuid",
     "type": "library",
     "require": {
-        "ramsey/uuid": "^4.0",
+        "ramsey/uuid": "^3.0",
         "yiisoft/yii2": "^2.0"
     },
     "authors": [
